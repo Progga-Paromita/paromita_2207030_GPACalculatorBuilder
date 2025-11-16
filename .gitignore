@@ -29,6 +29,10 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+<<<<<<< HEAD
+=======
+/target/
+>>>>>>> 5f7b45362b75453df2a2e835ad9bbc0ed630893b
 !**/src/main/**/build/
 !**/src/test/**/build/
 

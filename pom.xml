@@ -5,9 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
+<<<<<<< HEAD
     <artifactId>GPA_CalculatorBuilder</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>GPA CalculatorBuilder</name>
+=======
+    <artifactId>paromita_2207030_GPACalculatorBuilder</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <name>paromita_2207030_GPACalculatorBuilder</name>
+>>>>>>> 5f7b45362b75453df2a2e835ad9bbc0ed630893b
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -134,7 +140,11 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
+<<<<<<< HEAD
                                 com.example.gpa_calculatorbuilder/com.example.gpa_calculatorbuilder.HelloApplication
+=======
+                                com.example.paromita_2207030_gpacalculatorbuilder/com.example.paromita_2207030_gpacalculatorbuilder.HelloApplication
+>>>>>>> 5f7b45362b75453df2a2e835ad9bbc0ed630893b
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
